@@ -19,18 +19,18 @@ Quantum Simulation of H₂O, SO₃, and H₂SO₄ using VQE
 
 ΔE Calculation for reaction: SO₃ + nH₂O → H₂SO₄ (n = 1–3)
 
-Reaction Rate Modeling as a function of RH (60–100%)
+Reaction Rate Modeling as a function of Relative Humidity (RH) (60–100%)
 
 Visualization of RH vs. reaction rate to study climate impact
 
 ## 📈 Key Results
 Ground-state energies:
 
-H₂O ≈ −5.19 Ha
+H₂O ≈ -74.816034 Ha
 
-SO₃ ≈ −7.33 Ha
+SO₃ ≈ -613.795499 Ha
 
-H₂SO₄ ≈ −10.99 Ha
+H₂SO₄ ≈ -688.199187 Ha
 
 ΔE increases with more H₂O molecules
 
