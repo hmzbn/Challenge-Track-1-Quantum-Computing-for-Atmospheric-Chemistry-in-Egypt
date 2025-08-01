@@ -1,4 +1,4 @@
-# 🌿 Quantum AI Hackathon – Team Q-Haze
+# 🌿 Quantum AI Hackathon – Team 12
 ## 🧪 Project Title:
 Quantum Modeling of Sulfate Aerosol Formation in the Nile Delta
 
