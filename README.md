@@ -9,7 +9,7 @@ Tasnim – Chemistry Analysis, Presentation
 
 Amr Ayman Elkousy – Results Interpretation, Presentation
 
-Menna Zaied – Data Support, References, Presentation
+Menna Allah Mohammed Zaied – Data Support, References, Presentation
 
 ## 🔍 Overview
 We modeled the humidity-dependent formation of sulfuric acid (H₂SO₄) from sulfur trioxide (SO₃) and water using a hybrid quantum-classical approach. The quantum part uses VQE to estimate ground-state energies, while the classical part models how relative humidity (RH) affects reaction rates.
