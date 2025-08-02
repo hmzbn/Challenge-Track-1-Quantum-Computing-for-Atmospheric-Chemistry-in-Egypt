@@ -1,5 +1,5 @@
 # 🌿 Quantum AI Hackathon – Team 12
-## 🧪 Project Title
+## 🧪 Project Title:
 Quantum Modeling of Sulfate Aerosol Formation in the Nile Delta
 
 ## 👥 Team Members and Roles
