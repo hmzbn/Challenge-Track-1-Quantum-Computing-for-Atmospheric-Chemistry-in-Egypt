@@ -5,7 +5,7 @@ Quantum Modeling of Sulfate Aerosol Formation in the Nile Delta
 ## 👥 Team Members and Roles
 Hamza Benkadour – Quantum Code Implementation, Data Collection
 
-Tasnim – Chemistry Analysis, Presentation
+Tassnim Sherif Ali – Chemistry Analysis, Presentation
 
 Amr Ayman Elkousy – Results Interpretation, Presentation
 
